@@ -1,0 +1,13 @@
+@import './globals.scss';
+
+/*
+* Animations
+*/
+@import './animations.scss';
+
+/*
+* Components
+*/
+@import '../components/organisms/header/header.style.scss';
+@import '../components/molecules/profile/profile.scss';
+@import '../components/molecules/navar/navar.scss';

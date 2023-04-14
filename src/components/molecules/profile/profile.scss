@@ -1,0 +1,33 @@
+.profile {
+    &__hyperlink {
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+        max-width: 10rem;
+    }
+
+    &__title {
+        width: 100%;
+        margin-top: .8rem;
+        color: #fff;
+        font-size: 1.6em;
+        text-align: center;
+        line-height: 1;
+        letter-spacing: 3px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    &__description {
+        font-size: 0.8em;
+        font-weight: 400;
+        color: #e1e1e1;
+        text-align: center;
+        width: 100%;
+        display: block;
+        margin-bottom: 0.8rem;
+    }
+}
+
+.logo__image {
+    width: 100%;
+}
